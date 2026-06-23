@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/usr/local/software/cpp/project_two_src/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

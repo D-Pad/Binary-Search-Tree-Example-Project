@@ -1,0 +1,1 @@
+/usr/sbin/c++ -Wl,--dependency-file=CMakeFiles/main.dir/link.d CMakeFiles/main.dir/src/BinarySearchTree.cpp.o CMakeFiles/main.dir/src/CSVparser.cpp.o CMakeFiles/main.dir/src/Course.cpp.o CMakeFiles/main.dir/src/main.cpp.o -o main
