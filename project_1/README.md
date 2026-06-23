@@ -631,6 +631,7 @@ FUNCTION printCourses(vector<Course> courses) {
 | Display course info            | 1          | n                | n          |
 
 **Total Cost:** O(n log n) + 2n
+
 **Runtime:** O(n log n)
 
 
@@ -674,6 +675,7 @@ FUNCTION printCourses(HashTable<INT, Course> courses) {
 | Display course info            | 1          | n                | n          |
 
 **Total Cost:** O(n log n) + 5n + 1 
+
 **Runtime:** O(n log n) 
 
 
@@ -711,6 +713,7 @@ FUNCTION InOrderTraversal(Node node) {
 | Recruse down right branch      | 1          | n                | n          |
 
 **Total Cost:** 4n + 1 
+
 **Runtime:** O(n) 
 
 
